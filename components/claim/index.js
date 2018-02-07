@@ -12,7 +12,7 @@ function mapStateToProps(state, ownProps) {
     return {
         ...ownProps,
         siteName,
-        ldapLoginFieldName,
+        ldapLoginFieldName
     };
 }
 
